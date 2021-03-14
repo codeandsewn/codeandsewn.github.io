@@ -6,7 +6,7 @@
     font-stretch: normal;
 }
 
-a {
+.raw {
     position: fixed;
     z-index: 100000;
     bottom: 10px;
