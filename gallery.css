@@ -95,10 +95,13 @@
         user-select: none;
     }
 
+    * {
+        color: #0bf2f2;
+    }
+    
     .plane-title {
         position: absolute;
         z-index: 1;
-        color: #0bf2f2;
         margin: 0;
 
         white-space: nowrap;
