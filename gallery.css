@@ -98,7 +98,7 @@
     * {
         color: #0bf2f2;
     }
-    
+
     .plane-title {
         position: absolute;
         z-index: 1;
@@ -235,7 +235,7 @@
         position: relative;
 
         width: 80vw;
-        height: calc(100vh / 1.75);
+        height: 80vw;
         margin: 10vw 0;
     }
 
